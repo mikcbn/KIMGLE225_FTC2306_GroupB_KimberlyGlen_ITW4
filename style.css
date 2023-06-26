@@ -1,31 +1,51 @@
+#top{
+    padding: 20px;
+    background-color: rgb(214, 206, 168);
+}
+img {
+    border-radius: 50%;
+}
+#Menu{
+    height: 80px;
+    width: 100px;
+    margin:auto
+    text-align: left;
+    padding: 5%;
+    background color
+}
+head {
+    text-align: left;
+}
 body {
-    background-color: rgb(161, 116, 204);
-    font-family:'Times New Roman', Times, serif
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
 }
+
 p {font-family:'Times New Roman', Times, serif;}
+
 h1 {
-    color:rgb(215, 250, 228);
+    color:rgb(252, 252, 252);
     font-family:cursive
-    
 }
+
 h2 {
     color:rgb(253, 229, 18)
 }
+
 h3 {
     font-family:'Times New Roman', Times, serif;
-    color: aliceblue;
+    color: rgb(10, 10, 10);
 }
+
 h5 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: aliceblue;
+    color: rgb(10, 10, 10);
+
 }
 .parent {
     text-align:center
 }
 .parent > ul {
     display:inline-block;
-}
-#top{
-    padding: 20px;
-    background-color: black;
 }
