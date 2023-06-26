@@ -1,11 +1,27 @@
 body {
     background-color: rgb(161, 116, 204);
+    font-family:'Times New Roman', Times, serif
 }
+p {font-family:'Times New Roman', Times, serif;}
 h1 {
     color:rgb(215, 250, 228);
     font-family:cursive
     
 }
 h2 {
-    color:rgb(253, 159, 18)
+    color:rgb(253, 229, 18)
+}
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+h5 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.parent {
+    text-align:center
+}
+.parent > ul {
+    display:inline-block;
 }
